@@ -49,8 +49,8 @@ import os
 
 class ncore(object):
     # EDIT YOUR CREDENTIALS HERE
-    username = 'VArtepV'
-    password = 'Szkottenzo_25'
+    username = ''
+    password = ''
 
     passhash = 'should leave empty if dont know'
     twofactorcode = 'enter_code'
